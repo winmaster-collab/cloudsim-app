@@ -1,0 +1,27 @@
+{
+  "name": "Cloud Sim SuperApp",
+  "short_name": "Cloud Sim",
+  "description": "Cloud Sim Smart Vehicle Control & Digital Key SuperApp (Arabic / English)",
+  "start_url": "/phone-app/?v=3.4.3&ios_clip=1",
+  "scope": "/phone-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF0F1",
+  "theme_color": "#EEF0F1",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
